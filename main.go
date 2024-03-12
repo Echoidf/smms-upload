@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	token := "dm1aZpNLeilrFLISdkmzXOCLvYL6pR5j"
+	token := "your token"
 	filePath := "./codearena.png"
 	url := "https://smms.app/api/v2/upload"
 

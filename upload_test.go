@@ -5,7 +5,7 @@ import (
 )
 
 func TestUpload(t *testing.T) {
-	token := "dm1aZpNLeilrFLISdkmzXOCLvYL6pR5j"
+	token := "your token"
 	base64Img := "..."
 	url := "https://smms.app/api/v2/upload"
 
